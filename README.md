@@ -1,5 +1,18 @@
 # Kris Hinojosa: Password_Generator
 
+This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected.
+
+## url
+
+https://github.com/khinoj/Password_Generator
+
+https://khinoj.github.io/Password_Generator/
+
+
+## Screenshot
+
+![](./assets/images/screen_shot_password.png)
+
 ## Acceptance Criteria
 
 ```
